@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+    border: 5px solid black;
+    margin: 2rem;
+}
+
+.btn-container {
+    display: inline-flex;
+    justify-content: center;
+}
+
+.pink {
+    background-color: #CA3F75;
+}
+
+.orange {
+    background-color: #F08B40;
+}
+
+.teal {
+    background-color: #5EA6B7;
+}
+
+.lightBlue {
+    background-color: #7A90F4;
+}
+
+.flash {
+    background-color: green;
+}
+
+.over {
+    background-color: red;
+}
