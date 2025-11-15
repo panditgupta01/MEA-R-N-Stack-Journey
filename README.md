@@ -16,23 +16,43 @@ You can access each project directly using the links below.
 
 
 📦 Folder Structure <br>
-Java-Script/
-│── JS P-13/
-│── JS P-9/
-│── JS-mini-project/
-│── JS/
-│── MIni-Project/
-│   ├── index.html
-│   ├── app.js
-│   └── style.css
-│── Simon-says-Game/
-│   ├── index.html
-│   ├── app.js
-│   └── style.css
-│── Spotify-Clone-Homepage/
-│   ├── index.html
-│   ├── assets/
-│   └── style.css
+MEA-R-N-Stack-Journey/<br>
+│<br>
+└── Java-Script/<br>
+    ├── JS P-9/<br>
+    │   └── JS/<br>
+    │       ├── app.js<br>
+    │       ├── index.html<br>
+    │       └── style.css<br>
+    │<br>
+    ├── Simon-says-Game/<br>
+    │   ├── app.js<br>
+    │   ├── index.html<br>
+    │   └── style.css<br>
+    │<br>
+    ├── colleges-in-state/<br>
+    │   ├── .vscode/<br>
+    │   ├── app.js<br>
+    │   ├── index.html<br>
+    │   └── style.css<br>
+    │<br>
+    ├── to-do/<br>
+    │   ├── app.js<br>
+    │   ├── index.html<br>
+    │   └── Free APIs for Project.pdf<br>
+    │<br>
+    ├── Spotify-Clone-Homepage/<br>
+    │   ├── assets/<br>
+    │   ├── index.html<br>
+    │   └── style.css<br>
+    │<br>
+    └── mini-project-photography/<br>
+        ├── index.html<br>
+        ├── photo.jpg<br>
+        └── style.css<br>
+<br>
+└── README.md<br>
+<br>
 
 🛠️ Technologies Used
 
