@@ -8,20 +8,12 @@ You can access each project directly using the links below.
 
 🚀 Live Project Links
 #	Project Name	Live Link
-1️⃣	Mini Project	🔗 https://panditgupta01.github.io/MEA-R-N-Stack-Journey/Java-Script/MIni-Project/
+1️⃣	Simon Says Game	🔗 https://panditgupta01.github.io/MEA-R-N-Stack-Journey/Java-Script/Simon-says-Game/
 
-2️⃣	Simon Says Game	🔗 https://panditgupta01.github.io/MEA-R-N-Stack-Journey/Java-Script/Simon-says-Game/
-
-3️⃣	Spotify Clone (Homepage)	🔗 https://panditgupta01.github.io/MEA-R-N-Stack-Journey/Java-Script/Spotify-Clone-Homepage/
-📸 Screenshots (Optional – add if you want)
-
-You can place screenshots inside each project folder and add them like this:
-
-### 📌 Spotify Clone Preview
-![Spotify Clone](./Java-Script/Spotify-Clone-Homepage/screenshot.png)
+2️⃣	Spotify Clone (Homepage)	🔗 https://panditgupta01.github.io/MEA-R-N-Stack-Journey/Spotify-Clone-Homepage/
 
 
-If you want, I can add sample screenshot sections.
+
 
 📦 Folder Structure
 Java-Script/
@@ -52,22 +44,9 @@ JavaScript (ES6+)
 
 GitHub Pages (Deployment)
 
-💡 How to Run Locally
-# Clone repository
-git clone https://github.com/panditgupta01/MEA-R-N-Stack-Journey.git
-
-# Navigate into JavaScript folder
-cd MEA-R-N-Stack-Journey/Java-Script/
-
-# Open any project folder
-cd MIni-Project
-open index.html
-
-🤝 Contributing
 
 Feel free to raise issues or suggest improvements — contributions are always welcome! ✨
 
-⭐ Support
 
 If you found this useful, please consider giving this repo a ⭐ star.
 It motivates me to build more awesome projects! 😊
