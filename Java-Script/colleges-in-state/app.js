@@ -1,5 +1,5 @@
 
-let url = "http://universities.hipolabs.com/search?name=india";
+let url = "https://cors-anywhere.herokuapp.com/http://universities.hipolabs.com/search?name=india";
 let btn = document.querySelector("button");
 let ul = document.querySelector("ul");
 
